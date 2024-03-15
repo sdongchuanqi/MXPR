@@ -3,7 +3,7 @@ This repository contains the code and pre-trained models for our paper Multimoda
 
 **************************** **Updates** ****************************
 
-- 2/16 Our paper has been accepted to **Lrec-Coling2024**.
+- 2/16 Our paper has been accepted to **LREC-COLING 2024**.
 
 ## Overview
 
