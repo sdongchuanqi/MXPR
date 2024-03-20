@@ -9,7 +9,7 @@ This repository contains the code and pre-trained models for our paper Multimoda
 
 We propose a method for retrieving parallel phrases across languages from multimodal data, termed Multimodal Cross-lingual Phrase Retrieval.
 
-![](figure/overview_xpr.png)
+![](gitpic.png)
 
 ## Dataset
 
