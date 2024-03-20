@@ -7,7 +7,7 @@ This repository contains the code and pre-trained models for our paper Multimoda
 
 ## Overview
 
-We propose a Multimodal Cross-lingual Phrase Retrieval that extracts phrase representations from multimodal data.
+We propose a method for retrieving parallel phrases across languages from multimodal data, termed Multimodal Cross-lingual Phrase Retrieval.
 
 ![](figure/overview_xpr.png)
 
@@ -42,7 +42,8 @@ Before using MXPR, please process the dataset by following the steps below.
 
 - Get relation text from m-plug [link](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl)
 
-
+- We alse offer our labeled Here: [link]()
+  
 ### Train MXPR
 <!-- Download XLMR checkpoint from Huggingface page: [link](https://huggingface.co/xlm-roberta-base). -->
 ```
