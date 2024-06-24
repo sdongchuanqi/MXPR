@@ -43,6 +43,10 @@ Before using MXPR, please process the dataset by following the steps below.
 - Get relation text from m-plug [link](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl)
 
 - We alse offer our labeled Here: [link]()
+
+###checkpoint
+链接：https://pan.baidu.com/s/1QQ6eRMkLNJAzr75VoZm7dg 
+提取码：0enw
   
 ### Train MXPR
 <!-- Download XLMR checkpoint from Huggingface page: [link](https://huggingface.co/xlm-roberta-base). -->
